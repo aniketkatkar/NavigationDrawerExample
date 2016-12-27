@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/one"
+            android:title="Fragment One" />
+        <item
+            android:id="@+id/two"
+            android:title="Fragment Two" />
+        <item
+            android:id="@+id/three"
+            android:title="Fragment Three" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/followus"
+                android:title="About Us" />
+            <item
+                android:id="@+id/contactus"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+</menu>
