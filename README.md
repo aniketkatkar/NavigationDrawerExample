@@ -27,10 +27,6 @@ There  is a **MiniDrawer** for Tablets (like Gmail), you can edit the Rows and a
 - sticky footer or headers
 - **absolutely NO limits**
 
-##Screenshots
-![Image](https://raw.githubusercontent.com/aniketkatkar/NavigationDrawerExample/Screenshots/Screenshot1.png)
-![Image](https://raw.githubusercontent.com/aniketkatkar/NavigationDrawerExample/Screenshots/Screenshot2.png)
-
 #Developed By
 
 * Aniket Katkar
