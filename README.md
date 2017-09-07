@@ -1,4 +1,4 @@
-#NavigationDrawerExample
+# NavigationDrawerExample
 
 ![NavigationDrawerExample the flexible, easy to use, all in one drawer library for your android project.]
 
@@ -11,7 +11,7 @@ If any (or all) of these questions seem familiar, the **NavigationDrawerExample*
 It provides you with the easiest possible implementation of a navigation drawer for your application.
 There  is a **MiniDrawer** for Tablets (like Gmail), you can edit the Rows and add images, text and icons to your designs.
 
-###A quick overview what's in
+### A quick overview what's in
 - **the easiest possible integration**
 - integrate in less than **5 minutes**
 - compatible down to **API Level 19**
@@ -27,14 +27,14 @@ There  is a **MiniDrawer** for Tablets (like Gmail), you can edit the Rows and a
 - sticky footer or headers
 - **absolutely NO limits**
 
-#Developed By
+# Developed By
 
 * Aniket Katkar
  * [aniketkatkar.co.nf](http://aniketkatkar.co.nf) - <locked.ani@gmail.com>
  * [about.me/aniketkatkar](http://about.me/aniketkatkar)
 
 
-#License
+# License
 
     Copyright 2016 Aniket Katar
 
