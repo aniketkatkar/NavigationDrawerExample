@@ -36,7 +36,7 @@ There  is a **MiniDrawer** for Tablets (like Gmail), you can edit the Rows and a
 
 # License
 
-    Copyright 2016 Aniket Katar
+    Copyright 2016 Aniket Katkar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
