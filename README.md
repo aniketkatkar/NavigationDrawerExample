@@ -30,7 +30,7 @@ There  is a **MiniDrawer** for Tablets (like Gmail), you can edit the Rows and a
 # Developed By
 
 * Aniket Katkar
- * [aniketkatkar.co.nf](http://aniketkatkar.co.nf) - <locked.ani@gmail.com>
+ * [aniketkatkar.github.io](http://aniketkatkar.github.io) - <locked.ani@gmail.com>
  * [about.me/aniketkatkar](http://about.me/aniketkatkar)
 
 
